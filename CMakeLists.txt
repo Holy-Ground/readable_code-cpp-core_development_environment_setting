@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.11)
 
-set(PACKAGE_NAME TEMPLATE_GROUND)
+set(PACKAGE_NAME READABLE_CODE_CPP_DEVELOPMENT_ENVIRONMENT_SETTING)
 set(PACKAGE_VERSION 1.1.0)
 
 project(${PACKAGE_NAME} VERSION ${PACKAGE_VERSION} LANGUAGES CXX)
@@ -35,9 +35,6 @@ message(STATUS "${PACKAGE_NAME}_THIRDPARTY_PATH: ${${PACKAGE_NAME}_THIRDPARTY_PA
 # add_subdirectory(${${PACKAGE_NAME}_MODULE_PATH})
 
 # add_executable(MAIN src/main.cpp)
-# target_link_libraries(MAIN
-#   TEMPLATE_GROUND_EXAMPLE
-# )
 # target_compile_options(MAIN PRIVATE
 #   -Wall -Wextra -Wpedantic -Werror
 # )
