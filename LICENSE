@@ -1,29 +1,49 @@
-# COMMERCIAL SOFTWARE LICENSE AGREEMENT
+# HolyGround Software License Agreement
+
+This Software License Agreement("Agreement") is made by and between HolyGround("Licensor") and the end user("Licensee").
 
 Copyright (c) 2023 HolyGround
 
-This License Agreement ("Agreement") is made and entered into by and between HolyGround, ("Licensor") and the individual or entity acquiring the license ("Licensee").
+GRANT OF LICENSE:
+**For Non-Commercial Use:**
+If Licensee uses the software solely for non-commercial purposes, the software is licensed under the terms of the MIT License. The MIT License permits use, copying, modification, and distribution for any purpose and without fees.
 
-1. GRANT OF LICENSE:
-Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable right to use READABLE_CODE_CPP_DEVELOPMENT_ENVIRONMENT_SETTING ("Software").
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. RESTRICTIONS:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+**For Commercial Use:**
+If Licensee uses the software for commercial purposes, Licensee agrees to the commercial terms stated in this Agreement.
+
+1. RESTRICTIONS FOR COMMERCIAL USE:
 Licensee shall not:
    - Reverse engineer, decompile, or disassemble the Software.
-   - Reproduce, distribute, resell, or transfer the Software.
+   - Reproduce the Software except for backup purposes.
    - Sub-license, rent, lease, or lend the Software.
-
-3. INTELLECTUAL PROPERTY:
-All title, including but not limited to copyrights, in and to the Software and any copies thereof are owned by Licensor. All rights not expressly granted are reserved by Licensor.
-
-4. TERMINATION:
-Without prejudice to any other rights, Licensor may terminate this Agreement if Licensee fails to comply with the terms and conditions. In such event, Licensee must destroy all copies of the Software.
-
-5. DISCLAIMER OF WARRANTY:
+2. INTELLECTUAL PROPERTY:
+All rights, including but not limited to copyrights, in and to the Software and any copies thereof are owned by HolyGround. All rights not expressly granted are reserved by Licensor.
+3. TERMINATION:
+Licensor may terminate this Agreement if Licensee fails to comply with the terms and conditions. In such an event, Licensee must destroy all copies of the Software.
+4. DISCLAIMER OF WARRANTY:
 The Software is provided "AS IS" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability or fitness for a particular purpose.
+5. LIMITATION OF LIABILITY:
+In no event shall HolyGround be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) arising out of Licensee's use of or inability to use the Software.
+6. GOVERNING LAW:
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which HolyGround operates.
 
-6. LIMITATION OF LIABILITY:
-In no event shall Licensor be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) arising out of Licensee's use of or inability to use the Software.
-
-7. GOVERNING LAW:
-This Agreement shall be governed by and construed in accordance with the laws of Republic of Korea.
+**Contact:**
+For questions or clarifications regarding this license, please contact HolyGround at studio.holyground@gmail.com.
