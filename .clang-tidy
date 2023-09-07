@@ -1,4 +1,19 @@
-Checks: "-*, abseil-*, clang-analyzer-*, altera-*, boost-*, concurrency-*, cppcoreguidelines-*, hicpp-*, openmp-*, performance-*, portability-*, readability-*, modernize-*, google-*, misc-*"
+Checks:
+  "-*,
+  abseil-*,
+  clang-analyzer-*,
+  altera-*,
+  boost-*,
+  concurrency-*,
+  cppcoreguidelines-*,
+  hicpp-*,
+  openmp-*,
+  performance-*,
+  portability-*,
+  readability-*,
+  modernize-*,
+  google-*,
+  misc-*"
 
 CheckOptions:
   - { key: readability-identifier-naming.NamespaceCase, value: lower_case }
