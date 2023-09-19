@@ -34,7 +34,7 @@ message(STATUS "${PACKAGE_NAME}_THIRDPARTY_PATH: ${${PACKAGE_NAME}_THIRDPARTY_PA
 # add_subdirectory(${${PACKAGE_NAME}_THIRDPARTY_PATH})
 # add_subdirectory(${${PACKAGE_NAME}_MODULE_PATH})
 
-# add_executable(MAIN src/main.cpp)
-# target_compile_options(MAIN PRIVATE
-#   -Wall -Wextra -Wpedantic -Werror
-# )
+add_executable(${PACKAGE_NAME}_MAIN src/main.cpp)
+target_compile_options(${PACKAGE_NAME}_MAIN PRIVATE
+  -Wall -Wextra -Wpedantic -Werror
+)
