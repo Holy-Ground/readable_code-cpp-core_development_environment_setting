@@ -5,3 +5,7 @@
 
 # Install VSCode
 brew install visual-studio-code --cask
+
+# Verify installed versions
+echo "VSCode version:"
+code --version
