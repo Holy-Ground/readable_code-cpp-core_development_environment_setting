@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./install_gcc.sh
 ./install_clang.sh
+./install_gcc.sh
