@@ -1,9 +1,8 @@
 #!/bin/bash
 
 # Install necessary dependencies
-sudo apt update -y
-sudo apt upgrade -y
-sudo apt install software-properties-common apt-transport-https wget
+./update_ubuntu.sh
+sudo apt -y install software-properties-common apt-transport-https wget
 
 # Install VSCode
 echo "Installing VSCode..."

@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Install necessary dependencies
-sudo apt update -y
-sudo apt upgrade -y
+./update_ubuntu.sh
 sudo apt install -y build-essential
 
 # Install CMake
